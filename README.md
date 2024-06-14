@@ -51,7 +51,7 @@ O projeto contém as seguintes classes principais:
 5. **Agrupamento por Função**: Organiza os funcionários em um mapa baseado em suas funções.
 6. **Impressão por Grupo de Função**: Mostra os funcionários agrupados por função.
 7. **Aniversariantes de Outubro e Dezembro**: Lista os funcionários que fazem aniversário nesses meses.
-8. **Funcionário Mais Velho**: Identifica e imprime o funcionário mais velho.
+8. **Funcionário com Maior Idade**: Identifica e imprime o funcionário mais velho.
 9. **Ordem Alfabética**: Lista todos os funcionários em ordem alfabética.
 10. **Total de Salários**: Calcula a soma dos salários de todos os funcionários.
 11. **Comparação com Salário Mínimo**: Mostra quantos salários mínimos cada funcionário ganha.
