@@ -12,7 +12,7 @@ public class Principal {
 
     public static void main(String[] args) throws Exception {
         int[] meses = {10, 12};
-        List<Funcionario> funcionarios = criaListaFuncionarios("resources/Funcionarios.txt");
+        List<Funcionario> funcionarios = criaListaFuncionarios("src/main/resources/Funcionarios.txt");
         removeFuncionario(funcionarios, "João");
         imprimeFuncionarios(funcionarios);
         aumentaSalario(funcionarios, 10);
